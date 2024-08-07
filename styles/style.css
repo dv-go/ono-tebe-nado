@@ -4,7 +4,6 @@ body {
 }
 
 header {
-  /* height: 293px; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -68,7 +67,7 @@ header {
   line-height: 1.35;
 }
 
-.address-style{
+.address-style {
   font-style: normal;
 }
 
@@ -298,7 +297,6 @@ header {
   margin-top: 146px;
   display: flex;
   justify-content: space-between;
-  margin-top: 133px;
   margin-bottom: 180px;
 }
 
