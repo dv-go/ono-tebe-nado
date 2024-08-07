@@ -132,11 +132,11 @@ header {
   margin-right: 28px;
 }
 
-.text-center {
+.aligned-text_center {
   text-align: center;
 }
 
-.text-right {
+.aligned-text_right {
   text-align: right;
 }
 
