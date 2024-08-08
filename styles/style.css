@@ -252,7 +252,7 @@
   display: flex;
   justify-content: center;
   margin-top: 35px;
-  margin-left: 47px;
+  margin-left: 71px;
 }
 
 .about__logo-image {
@@ -262,12 +262,12 @@
 }
 
 .about__text-block {
-  width: 693px;
+  width: 717px;
   align-self: flex-end;
   display: flex;
   flex-direction: column;
   justify-content: end;
-  margin-right: 50px;
+  margin-top: 136px;
 }
 
 .about__title {
@@ -281,11 +281,13 @@
   font-size: 20px;
   font-weight: normal;
   margin-top: 24px;
+  margin-right: 50px;
 }
 
 .footer {
   width: 1000px;
   margin-bottom: 88px;
+  margin-left: 50px;
   display: flex;
   justify-content: space-between;
   align-items:flex-start;
