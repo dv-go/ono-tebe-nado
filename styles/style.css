@@ -22,12 +22,17 @@
   text-underline-offset: 4px;
 }
 
-.header__link_active {
-  text-decoration: none;
-}
-
 .header__links-list-item_no-bullit {
   list-style-type: none;
+}
+
+.header__link{
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+
+.header__link_active {
+  border-bottom: none;
 }
 
 .header__logo {
@@ -178,7 +183,7 @@ margin-right: 152px;
   background-image: url(../images/card-lot-03.jpg);
 }
 
-.card__link--no-underline {
+.card__link {
   text-decoration: none;
 }
 
