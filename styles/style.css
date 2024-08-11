@@ -26,7 +26,7 @@
   list-style-type: none;
 }
 
-.header__link{
+.header__link {
   text-decoration: none;
   border-bottom: 1px solid currentColor;
 }
@@ -36,7 +36,7 @@
 }
 
 .header__logo {
-margin-right: 152px;
+  margin-right: 152px;
 }
 
 .header__logo-image {
@@ -210,7 +210,7 @@ margin-right: 152px;
   font-weight: bold;
   font-size: 22px;
   padding: 51px 40px 0;
-  z-index: 1
+  z-index: 1;
 }
 
 .card__text {
@@ -219,7 +219,7 @@ margin-right: 152px;
   font-weight: normal;
   font-size: 20px;
   padding: 0 40px 48px;
-  z-index: 1
+  z-index: 1;
 }
 
 .lots__look-more-link {
@@ -286,7 +286,7 @@ margin-right: 152px;
   margin-left: 50px;
   display: flex;
   justify-content: space-between;
-  align-items:flex-start;
+  align-items: flex-start;
 }
 
 .footer__menu-list {
